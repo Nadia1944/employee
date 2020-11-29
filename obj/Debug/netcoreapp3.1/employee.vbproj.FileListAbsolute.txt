@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\pemrograman\employee\employee\bin\Debug\netcoreapp3.1\employee.exe
+C:\Users\ASUS\Documents\pemrograman\employee\employee\bin\Debug\netcoreapp3.1\employee.deps.json
+C:\Users\ASUS\Documents\pemrograman\employee\employee\bin\Debug\netcoreapp3.1\employee.runtimeconfig.json
+C:\Users\ASUS\Documents\pemrograman\employee\employee\bin\Debug\netcoreapp3.1\employee.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\pemrograman\employee\employee\bin\Debug\netcoreapp3.1\employee.dll
+C:\Users\ASUS\Documents\pemrograman\employee\employee\bin\Debug\netcoreapp3.1\employee.pdb
+C:\Users\ASUS\Documents\pemrograman\employee\employee\obj\Debug\netcoreapp3.1\employee.vbprojAssemblyReference.cache
+C:\Users\ASUS\Documents\pemrograman\employee\employee\obj\Debug\netcoreapp3.1\employee.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\pemrograman\employee\employee\obj\Debug\netcoreapp3.1\employee.AssemblyInfo.vb
+C:\Users\ASUS\Documents\pemrograman\employee\employee\obj\Debug\netcoreapp3.1\employee.dll
+C:\Users\ASUS\Documents\pemrograman\employee\employee\obj\Debug\netcoreapp3.1\employee.pdb
